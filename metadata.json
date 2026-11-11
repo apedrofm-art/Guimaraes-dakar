@@ -1,0 +1,6 @@
+{
+  "name": "Estúdio Criador de Sites",
+  "description": "Plataforma interativa para criação, personalização e visualização de sites profissionais modernos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
